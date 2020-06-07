@@ -51,7 +51,7 @@ nav ul li a:hover {
 /*MAIN-------------------------------------------------------------------------------------------*/
 
 main {
-    background: url("../Imagenes/fondo.jpg");
+    background: url("../img/fondo.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
